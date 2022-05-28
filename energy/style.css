@@ -13,6 +13,23 @@ html {
 body {
   margin: 0;
 }
+
+/*
+.navegacao ul li {
+  display:flex;
+}
+
+.navegacao ul {
+  margin-left: 0px;
+
+}
+
+.navegacao {
+  background-color: rgba(86, 5, 64, 0.965);
+  padding:20px;
+}
+
+*/
 article,
 aside,
 details,
@@ -4760,9 +4777,10 @@ body.white {
   position: relative;
   z-index: 1;
 }
-.section-container {
+/*.section-container {
   padding: 60px 0 40px;
-}
+}*/
+
 .work-experience {
   margin-bottom: 40px;
 }
